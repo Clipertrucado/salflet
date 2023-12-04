@@ -1,0 +1,14 @@
+C:\Users\csi23-salflet\source\repos\salflet\bin\Debug\net6.0\salflet.exe
+C:\Users\csi23-salflet\source\repos\salflet\bin\Debug\net6.0\salflet.deps.json
+C:\Users\csi23-salflet\source\repos\salflet\bin\Debug\net6.0\salflet.runtimeconfig.json
+C:\Users\csi23-salflet\source\repos\salflet\bin\Debug\net6.0\salflet.dll
+C:\Users\csi23-salflet\source\repos\salflet\bin\Debug\net6.0\salflet.pdb
+C:\Users\csi23-salflet\source\repos\salflet\obj\Debug\net6.0\salflet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-salflet\source\repos\salflet\obj\Debug\net6.0\salflet.AssemblyInfoInputs.cache
+C:\Users\csi23-salflet\source\repos\salflet\obj\Debug\net6.0\salflet.AssemblyInfo.cs
+C:\Users\csi23-salflet\source\repos\salflet\obj\Debug\net6.0\salflet.csproj.CoreCompileInputs.cache
+C:\Users\csi23-salflet\source\repos\salflet\obj\Debug\net6.0\salflet.dll
+C:\Users\csi23-salflet\source\repos\salflet\obj\Debug\net6.0\refint\salflet.dll
+C:\Users\csi23-salflet\source\repos\salflet\obj\Debug\net6.0\salflet.pdb
+C:\Users\csi23-salflet\source\repos\salflet\obj\Debug\net6.0\salflet.genruntimeconfig.cache
+C:\Users\csi23-salflet\source\repos\salflet\obj\Debug\net6.0\ref\salflet.dll
