@@ -9,6 +9,10 @@ using System.Xml.Linq;
 
 namespace salflet.Servicios
 {
+    /// <summary>
+    /// Clase encargada de la logica de la aplicacion 
+    /// SAV - 04122023
+    /// </summary>
     internal class ElementoImplementacion : ElementoInterfaz
     {
        

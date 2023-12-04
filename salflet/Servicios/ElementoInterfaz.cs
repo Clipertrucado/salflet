@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace salflet.Servicios
 {
+    /// <summary>
+    /// contiene las cabeceras de los metodos a los que llamaremos desde el metodo Main
+    /// SAV - 12042023
+    /// </summary>
     internal interface ElementoInterfaz
     {
         /// <summary>

@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace salflet.Servicios
 {
+    /// <summary>
+    /// contiene la logica de nuestro menu
+    /// SAV - 12042023
+    /// </summary>
     internal class MenuImplementacion : MenuInterfaz
     {
         public int menuSeleccion()
