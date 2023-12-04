@@ -21,7 +21,7 @@ namespace salflet.Servicios
             //añadimos a nuestra lista el elemento creado 
             listacompleta.Add(elemento);
             
-            mostraLista(listacompleta);
+            mostraNombre(listacompleta);
         }
 
         /// <summary>
@@ -67,6 +67,19 @@ namespace salflet.Servicios
 
             
         }
+        private void mostraNombre (List<ElementoDto> listaCompleta)
+        {
+            //mostramso mediante un foreach todas las posiciones de la lista
+            foreach (ElementoDto elemento in listaCompleta)
+            {
+               
+                
+
+                Console.WriteLine("Nombre: " + elemento.NombreElemento + ", Cantidad: " + elemento.CantidadElemento);
+            }
+
+
+        }
 
         public void editarLista(List<ElementoDto> listaCompleta)
         {
@@ -102,7 +115,7 @@ namespace salflet.Servicios
 
                                 elemento.CantidadElemento = elemento.CantidadElemento - reducir;
 
-                                mostraLista(listaCompleta);
+                                mostraNombre(listaCompleta);
 
                             }
                             else
